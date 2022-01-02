@@ -5,8 +5,8 @@ quaternions
     :target: http://quaternions.readthedocs.org/en/latest/?badge=latest
     :alt: Documentation Status
 
-.. image:: https://travis-ci.org/IRIM-Technology-Transition-Lab/quaternions.svg?branch=master
-    :target: https://travis-ci.org/IRIM-Technology-Transition-Lab/quaternions
+.. image:: https://app.travis-ci.com/mjsobrep/quaternions.svg?branch=master
+    :target: https://app.travis-ci.com/mjsobrep/quaternions
 
 .. image:: https://img.shields.io/pypi/v/quaternions.svg
     :target: https://pypi.python.org/pypi/quaternions
