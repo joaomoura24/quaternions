@@ -1,8 +1,8 @@
 quaternions
 ===========
 
-.. image:: https://readthedocs.org/projects/quaternions/badge/?version=latest
-    :target: http://quaternions.readthedocs.org/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/quaternions-mjs/badge/?version=latest
+    :target: https://quaternions-mjs.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
 
 .. image:: https://app.travis-ci.com/mjsobrep/quaternions.svg?branch=master
